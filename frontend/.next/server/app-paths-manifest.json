@@ -1,0 +1,13 @@
+{
+  "/briefs/page": "app/briefs/page.js",
+  "/decisions/page": "app/decisions/page.js",
+  "/dod/page": "app/dod/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/notifications/page": "app/notifications/page.js",
+  "/page": "app/page.js",
+  "/projects/[id]/page": "app/projects/[id]/page.js",
+  "/projects/page": "app/projects/page.js",
+  "/reviews/page": "app/reviews/page.js",
+  "/search/page": "app/search/page.js",
+  "/tasks/page": "app/tasks/page.js"
+}
